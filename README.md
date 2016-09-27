@@ -7,6 +7,8 @@ Coupon QRCode (Estabalecimento)
 
 
 --- Menu sidebar (OK)
+css/my-app.css
+
 --- Search vira Notificações
 		--- Sidebar
 
